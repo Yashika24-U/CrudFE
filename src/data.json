@@ -1,0 +1,104 @@
+
+[
+    {
+        "id":"1",
+        "price":3000,
+      "createdAt": "2023-04-04T10:30:00.000Z",
+      "name": "Classic Men's Watch",
+      "description": "A timeless classic for men with a leather band and analog display.",
+      "unitsAvailable": 50,
+      "productImage":"https://m.media-amazon.com/images/I/71GtycnHMtL._UY679_.jpg"
+
+    },
+    {
+        "id":"2",
+        "price":2000,
+      "createdAt": "2023-04-05T08:45:00.000Z",
+      "name": "Elegant Women's Watch",
+      "description": "An elegant wristwatch for women, featuring a stainless steel band and a sleek design.",
+      "unitsAvailable": 30,
+      "productImage": "https://m.media-amazon.com/images/I/616LuWzn7bL._UY741_.jpg"
+    },
+    {
+        "id":"3",
+        "price":5000,
+      "createdAt": "2023-04-06T14:20:00.000Z",
+      "name": "Sporty Digital Watch",
+      "description": "A sporty digital watch with a rubber strap and various features like stopwatch and alarms.",
+      "unitsAvailable": 20,
+      "productImage": "https://m.media-amazon.com/images/I/81CwsCvUWqL._UY679_.jpg"
+    },
+    {
+        "id":"4",
+        "price":12000,
+      "createdAt": "2023-04-07T12:15:00.000Z",
+      "name": "Women's Diamond Watch",
+      "description": "A luxurious women's watch with diamond accents and a stainless steel bracelet.",
+      "unitsAvailable": 15,
+      "productImage": "https://m.media-amazon.com/images/I/71GtycnHMtL._UY679_.jpg"
+    },
+    {
+        "id":"5",
+        "price":7000,
+      "createdAt": "2023-04-08T09:30:00.000Z",
+      "name": "Diver's Watch",
+      "description": "A professional diver's watch with water resistance up to 200 meteprice and luminous markeprice.",
+      "unitsAvailable": 25,
+      "productImage": "https://m.media-amazon.com/images/I/61LO6l4zB4L._UX679_.jpg"
+    },
+    {
+        "id":"6",
+        "price":14000,
+      "createdAt": "2023-04-09T17:45:00.000Z",
+      "name": "Smart Fitness Watch",
+      "description": "A smartwatch designed for fitness enthusiasts with heart rate monitoring and GPS tracking.",
+      "unitsAvailable": 40,
+      "productImage": "https://m.media-amazon.com/images/I/710BcI62Z4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {  "id":"7",
+    "price":8000,
+      "createdAt": "2023-04-10T14:00:00.000Z",
+      "name": "Vintage Mechanical Watch",
+      "description": "A vintage-style mechanical watch with a see-through case back and genuine leather strap.",
+      "unitsAvailable": 10,
+      "productImage": "https://m.media-amazon.com/images/I/817iC5Eq49L._UX679_.jpg"
+    },
+    {
+        "id":"8",
+        "price":2000,
+      "createdAt": "2023-04-11T10:30:00.000Z",
+      "name": "Minimalist Dress Watch",
+      "description": "A minimalist dress watch with a sleek design and a slim stainless steel case.",
+      "unitsAvailable": 18,
+      "productImage": "https://m.media-amazon.com/images/I/61hwd7aAmnL._UX679_.jpg"
+    },
+    {
+        "id":"9",
+        "price":6000,
+      "createdAt": "2023-04-12T08:45:00.000Z",
+      "name": "Aviator's Chronograph",
+      "description": "An aviator's chronograph watch with multiple dials, tachymeter scale, and a leather strap.",
+      "unitsAvailable": 22,
+      "productImage": "https://m.media-amazon.com/images/I/710BcI62Z4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+   
+    {
+        "id":"13",
+        "price":6000,
+      "createdAt": "2023-04-16T10:30:00.000Z",
+      "name": "Fashionable Men's Watch",
+      "description": "A fashionable men's watch with a bold design and a stainless steel bracelet.",
+      "unitsAvailable": 28,
+      "productImage": "https://m.media-amazon.com/images/I/51mrVEoJOqL._UX679_.jpg"
+    },
+    {
+        "id":"14",
+        "price":4000,
+      "createdAt": "2023-04-17T08:45:00.000Z",
+      "name": "Mechanical Skeleton Watch",
+      "description": "A mechanical skeleton watch with a transparent dial and a leather strap.",
+      "unitsAvailable": 17,
+      "productImage":"https://m.media-amazon.com/images/I/61hwd7aAmnL._UX679_.jpg"
+    }
+  ]
+  
