@@ -1,1 +1,2 @@
-export const API = "https://64befda55ee688b6250d1598.mockapi.io"
+
+export const API ="https://crrud.onrender.com"
